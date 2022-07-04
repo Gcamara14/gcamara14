@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1> Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="25px"></h1>
+  <h1> Hello World <img style="width: 25px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="" width="25"></h1>
 </div>
  
 <p align='center'> 
@@ -14,7 +14,7 @@
 
 ### About me 
 
-- 🎖  Currently an accessibility consultant at [Level Access](https://www.levelaccess.com/).
+- 🎖  Currently a Senior Product Manager, Accessibility at [Walmart](https://www.walmart.com/).
 - 👀  I talk about all things accessibility related here [GiovaniCamara.com](https://giovanicamara.com/blog/).
 - ⚡  Founder of [WebAccessibility.org](https://webaccessibility.org/).
 - 🎓  CPACC certified, WAS certified, and CPWA certified.
