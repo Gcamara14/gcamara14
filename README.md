@@ -18,7 +18,7 @@
 - 👀  I talk about all things accessibility related here [GiovaniCamara.com](https://giovanicamara.com/blog/).
 - ⚡  Founder of [WebAccessibility.org](https://webaccessibility.org/).
 - 🎓  CPACC certified, WAS certified, and CPWA certified.
-- 💭  Always interested in new opportuniies, lets get to know each other.
+- 💭  Always interested in new opportunities, lets get to know each other.
 
 Checkout my [Blog Posts](https://giovanicamara.com/blog/).
 
